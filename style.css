@@ -1,0 +1,38 @@
+.container{
+    width: 676px ;
+    height: 52px;
+    background-color: #663399;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 11px;
+   
+}
+.container1{
+    width: 400px;
+    margin: 0 auto;
+}
+.card{
+    width: 380px;
+    height: 290px;
+    border: 1px solid #c9c9c9;
+    border-right-width: 2px;
+    border-radius: 3px;
+    padding: 10px 9px 20px 9px;
+    
+
+}
+.border{
+    background-color: #6633b3;
+    width: 65px;
+    height: 17px;
+}
+.button{
+
+    color:white;
+    font-size: 10px;
+   padding-left: 5px;
+  
+    text-decoration:none;
+}
+  
